@@ -1,0 +1,6 @@
+console.log("Hola, usuario")
+var num1 = prompt("Ingresa tu primer numero")
+var num2 = prompt("Ingresa tu segundo numero")
+var resultado
+resultado = num1 - num2
+alert("Tu resultado es: " + resultado)
